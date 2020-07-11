@@ -3,7 +3,7 @@
 This anonymous repo includes the experiment code for ATTP and BITP sketches.
 
 ## Dependencies
-c/c++ compileres: must be gcc/g++ >= 8. Sorry, the code won't work with other compilers.
+c/c++ compilers: must be gcc/g++ >= 8. Sorry, the code won't work with other compilers.
 libraries: lapacke, cblas, fftw3
 
 ## How to compile:
